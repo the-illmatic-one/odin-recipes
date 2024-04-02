@@ -1,0 +1,21 @@
+/* .recipe-list {
+    font-family: Arial, Helvetica, serif;
+} */
+
+h1, h2, li, p {
+    font-family: Arial, Helvetica, serif;
+    color: white;
+}
+
+body {
+    background-color: rgb(36, 36, 36);
+}
+
+h2 {
+    text-decoration: underline;
+    color: rgb(229, 149, 0);
+}
+
+a:visited {
+    color: gray;
+}
